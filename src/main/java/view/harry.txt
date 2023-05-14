@@ -1,0 +1,75 @@
+Rendez-vous chez Ollivander, le célèbre fabricant de baguettes magiques, pour trouver la baguette qui est faite pour vous.
+Après avoir essayé plusieurs baguettes, vous en trouverez une qui est parfaitement adaptée à vos compétences et à votre personnalité. N'oubliez pas : c'est la baguette qui vous choisit, pas l'inverse.
+
+Il est désormais temps de prendre le train pour rejoindre votre nouvelle école : Poudlard
+Une fois dans la salle commune, le choipeau magique va permettre de vous assigner à une maison.
+
+Veuillez choisir 1 ou 2.
+
+Vous n'avez pas utilisé la potion.
+Choix invalide.
+
+1. Oui
+2. Non
+
+Entrez le nom du sorcier :
+Veuillez entrer une chaîne de caractères valide.
+
+Maintenant, il est temps de choisir votre animal de compagnie.Rendez-vous à l'animalerie du Chemin de Traverse pour trouver l'animal qui sera votre ami fidèle tout au long de votre aventure.Vous avez le choix entre plusieurs créatures magiques :\nune chouette \uD83E\uDD89 \nun crapeau\uD83D\uDC38 \nun rat\uD83D\uDC00  \nun chat\uD83D\uDC31 \nAprès une légère hésiation votre choix se porte sur un/une:
+Malheureusement, ce choix n'est pas disponible dans la boutique. Veuillez choisir parmi les animaux suivants : crapeau, rat, chouette ou chat.
+
+En gagnant ce combat vous pouvez soit :
+1. Gagner 10 points de vie.
+2. Gagner 10 points de dégâts à chaque sort.
+
+Veuillez choisir 1 ou 2.
+
+Vous avez choisi d'ajouter 10 points de vie.
+Vous avez choisi d'ajouter 10 points de dégâts à chaque sort.
+Choix invalide.
+
+Veuillez choisir un sort :
+
+Que décidez vous de faire :
+1. L'attaquer avec vos mains
+2. Utiliser un sort
+
+Bien tenté, mais vos coups de poing ont simplement chatouillé le troll.\nIl vous a attrapé et alors qu'il allait vous tuer un professeur est intervenu pour vous sortir de ce mauvais pas.\nVous avez eu chaud, mais il serait peut-être sage d'écouter davantage les cours de Défense contre les forces du Mal à l'avenir.
+
+Choix invalide. Veuillez choisir un sort valide :
+
+Bravo, vous avez réussi votre sort !
+Malheuresemement votre sort a échoué.
+Choisissez un sort :
+
+End of game.
+-------------------------
+
+Niveau 1 :
+Alors que vous vous promeniez paisiblement dans les toilettes du donjon, vous entendez soudain un grognement sourd. En vous retournant, vous tombez nez à nez avec un troll de 2 mètres de haut ! Il vous regarde d'un air menaçant, prêt à vous charger.
+
+Niveau 2 :
+Alors que vous explorez la Chambre des Secrets, vous entendez un sifflement sinistre qui vous glace le sang. Vous vous retournez et voyez le basilic, serpent géant et mortel, qui vous regarde fixement de ses yeux jaunes. Vous n'avez pas beaucoup de temps pour réagir !
+
+Niveau 3 :
+Alors que vous traversez le lac de la Forêt Interdite, vous vous sentez soudain vidé de toute énergie. Vous vous rendez compte que les Détraqueurs, créatures de la nuit qui aspirent la joie de vivre, vous ont trouvés. Vous devez agir vite pour vous protéger !
+
+Niveau 4 :
+Alors que vous entrez dans le cimetière de Little Hangleton, vous apercevez Voldemort et Peter Pettigrow qui se tiennent près du Portolion, prêts à s'enfuir. Vous devez agir vite et utiliser toutes vos compétences pour les empêcher de partir !
+
+Niveau 5 :
+Alors que vous pénétrez dans la salle d'examen de Poudlard, vous apercevez Dolores Ombrage qui vous attend de pied ferme. Elle n'est pas là pour rigoler, et vous allez devoir vous battre pour en sortir indemne.
+
+Niveau 6 :
+Alors que vous montez les escaliers de la tour d'astronomie, vous entendez des voix chuchoter dans l'obscurité. Vous vous rendez compte que des Mangemorts ont envahi Poudlard et vous devez les éliminer avant qu'il ne soit trop tard.
+
+Niveau 7 :
+Alors que vous arrivez dans la grande salle de Poudlard, vous voyez Voldemort et Bellatrix Lestrange qui vous attendent de pied ferme. Vous n'avez pas le choix : vous devez vous battre pour protéger l'école et vaincre ces ennemis redoutables.
+
+Bravo, vous avez réussi votre sort et infligez des dégâts à l'ennemi !
+Malheuresemement votre sort a échoué vous prenez des degats de l'ennemi.
+
+Bien joué choissisez un moyen pour recuperer le croc du basilic
+
+Vous avez reussi a recuper le croc du basilique super
+Ce sort ne parvient pas a recuperer le corc veuillez reeassyer
