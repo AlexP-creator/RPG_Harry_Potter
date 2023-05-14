@@ -1,5 +1,6 @@
 package view.gameplay;
 
+import com.example.demo1.HelloApplication;
 import view.userinterfaces.Cli;
 import view.userinterfaces.Gui;
 import view.userinterfaces.UserInterfaces;
@@ -18,10 +19,11 @@ public class Main {
         UserInterfaces userInteract;
         if (choice == 1) {
             userInteract = new Cli();
+            Gameplay.main(userInteract);
         } else {
-            userInteract = new Gui();
+            HelloApplication helloApplication = new HelloApplication();
+            helloApplication.launch(HelloApplication.class, args);
         }
-        Gameplay.main(userInteract);
-    }
 
-}
+
+    }}

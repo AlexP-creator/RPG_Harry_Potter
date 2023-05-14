@@ -59,10 +59,15 @@ public class Cli implements UserInterfaces {
     }
 
     public Pet selectPet() {
-        Text.askText(18);
+System.out.println("Maintenant, il est temps de choisir votre animal de compagnie. Rendez-vous à l'animalerie du Chemin de Traverse pour trouver l'animal qui sera votre ami fidèle tout au long de votre aventure. Vous avez le choix entre plusieurs créatures magiques :\n" +
+        "une chouette \uD83E\uDD89\n" +
+        "un crapeau \uD83D\uDC38\n" +
+        "un rat \uD83D\uDC00\n" +
+        "un chat \uD83D\uDC31\n" +
+        "Après une légère hésitation, votre choix se porte sur un/une :");
         String petType = getScanner().nextLine();
         while (!Pet.isValidType(petType)) {
-            Text.askText(19);
+            System.out.println("Malheureusement, ce choix n'est pas disponible dans la boutique. Veuillez choisir parmi les animaux suivants : crapeau, rat, chouette ou chat.");
             petType = getScanner().nextLine();
         }
         System.out.println("Après une légère hésitation votre choix se porte sur un/une " + petType + " !");
